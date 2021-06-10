@@ -1,0 +1,26 @@
+= Accounting 101
+
+.Table Class Webcasts
+|===
+|Item | Session webcast | Short Description | Supplementary Material
+
+| Preview
+| https://www.youtube.com/watch?v=Jbp3-AU9v_g[Introduction to sessions]
+| Provides an introduction to (my) version of an accounting class. Perhaps, more a warning, than a sales pitch!
+|
+
+|1
+|https://www.youtube.com/watch?v=7rW7lpQZpqY[Financial Statements: An Overview]
+|Provides an overview of the three financial statements and what they aim to do (and sometimes fail to do).
+|
+
+* http://people.stern.nyu.edu/adamodar/pdfiles/Accounting101/slides/session1.pdf[slides]
+
+| 2
+| https://www.youtube.com/watch?v=Q8wKr1QDSwg[Income Statements: Measuring Profits]
+| Go through an income statement, drawing distinctions between operating & financing expenses and measures of profitability.
+|
+
+* http://people.stern.nyu.edu/adamodar/pdfiles/Accounting101/slides/session2.pdf[slides]
+* http://people.stern.nyu.edu/adamodar/pdfiles/Accounting101/postclass/session2test.pdf[Post-class test] & http://people.stern.nyu.edu/adamodar/pdfiles/Accounting101/postclass/session2soln.pdf[solution]
+|===
